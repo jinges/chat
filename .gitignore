@@ -1,0 +1,13 @@
+# compiled output
+/build
+
+# dependencies
+/node_modules
+
+package-lock.json
+
+
+# web
+/node_modules
+
+/package-lock.json
